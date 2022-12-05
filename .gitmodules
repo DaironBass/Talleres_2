@@ -1,0 +1,3 @@
+[submodule "Proyecto_laravel"]
+	path = Proyecto_laravel
+	url = https://github.com/DaironBass/Proyecto_laravel.git
